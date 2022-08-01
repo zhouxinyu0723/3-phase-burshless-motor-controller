@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>815191217</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\T_and_V_controler.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\stdexcept</file>
+      <file>$PROJ_DIR$\triphase_moto.h</file>
+      <file>$PROJ_DIR$\basic_fun.cpp</file>
+      <file>$PROJ_DIR$\ini.cpp</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$PROJ_DIR$\phase_switcher.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstdio</file>
+      <file>$PROJ_DIR$\Debug\Obj\T_and_V_controler.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\time_array.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.r43</file>
+      <file>$TOOLKIT_DIR$\inc\msp430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\streambuf</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stddef.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\time_array.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\basic_fun.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xdebug</file>
+      <file>$PROJ_DIR$\Debug\Obj\mengya_16_12.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\T_and_V_controler.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xstddef</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\iosfwd</file>
+      <file>$PROJ_DIR$\time_record.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xtls.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\op_switch_fun.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\utility</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\ostream</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\iterator</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\algorithm</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm_fun.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\exception</file>
+      <file>$PROJ_DIR$\time_array.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\basic_fun.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\istream</file>
+      <file>$PROJ_DIR$\Debug\Obj\ini_time1_io.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ini.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\new</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstddef</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430g2553.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cctype</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\errno.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xiosbase</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm_basic_control.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\locale.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\time_record.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\io_base_fun.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\op_switch_fun.pbi</file>
+      <file>$PROJ_DIR$\io_base_fun.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\phase_switcher.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\clocale</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstring</file>
+      <file>$PROJ_DIR$\Debug\List\mengya_16_12.map</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cerrno</file>
+      <file>$PROJ_DIR$\switch_phase_fun.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm_basic_control.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\io_base_fun.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\time_record.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\memory</file>
+      <file>$PROJ_DIR$\pwm_fun.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_c.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\mengya_16_12.ulp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xutility</file>
+      <file>$PROJ_DIR$\Debug\Obj\switch_phase_fun.r43</file>
+      <file>$PROJ_DIR$\Debug\Exe\mengya_16_12.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\ini.pbi</file>
+      <file>$PROJ_DIR$\op_switch_fun.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\pwm_fun.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xstring</file>
+      <file>$PROJ_DIR$\Debug\Obj\switch_phase_fun.pbi</file>
+      <file>$PROJ_DIR$\ini_time1_io.cpp</file>
+      <file>$PROJ_DIR$\pwm_basic_control.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\iutility</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\ios</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xmemory</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ecpp\xlocnum</file>
+      <file>$PROJ_DIR$\uart.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\climits</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xlocale_lconv.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ini_time1_io.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\cstdlib</file>
+      <file>$PROJ_DIR$\Debug\Obj\phase_switcher.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\T_and_V_controler.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67 42 1 93 64 26 44 105 95 75 80 100 11 102 28 7 16 34 91 43 86 47 36 15 18 96 33 41 23 27 70 103 55 77 31 62 90 2 30 35 99 19 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 82 69</file>
+        </tool>
+        <tool>
+          <name>ULP430</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\basic_fun.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 35 1 93 64 26 95 27 100 11 75 99 7 16 34 91 43 86 28 47 36 15 18 30 90 19 70 103 55 77 31 62 2 96 80 33 44 102 105 41 67 23 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ini.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 35 75 1 93 64 26 95 11 27 100 99 7 16 34 91 43 86 28 47 36 15 18 30 90 19 70 103 55 77 31 62 2 96 80 33 44 102 105 41 67 23 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 35 1 11 93 64 26 95 75 27 100 99 7 16 34 91 43 86 28 47 36 15 18 30 90 19 70 103 55 77 31 62 2 96 80 33 44 102 105 41 67 23 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\phase_switcher.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 35 1 93 64 26 95 27 100 11 75 99 7 16 34 91 43 86 28 47 36 15 18 30 90 19 70 103 55 77 31 62 2 96 80 33 44 102 105 41 67 23 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\time_record.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 15 30 11 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\time_array.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 15 11 30 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\io_base_fun.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 15 18 11 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 11 15 18 30 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\switch_phase_fun.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 81</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 11 15 18 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pwm_fun.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\mengya_16_12.d43</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 49 20 46 94 104 25 10 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\op_switch_fun.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 30 15 18 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ini_time1_io.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\pwm_basic_control.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 30 15 18 2</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\uart.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 35 1 93 64 26 11 95 75 27 100 99 7 16 34 91 43 86 28 47 36 15 18 30 90 19 70 103 55 77 31 62 2 96 80 33 44 102 105 41 67 23 68 65 53 48 66 97 13 51 52 50 21 14 78 63 38</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 2 11 15 18 30 36 75 35 80 99 42 27 105 67 23 19 41 102 33 28 7 65 95 93 68 53 26 48 16 103 66 90 44 34 91 97 70 51 64 55 100 13 52 50 77 14 31 62 43 78 63 1 38 86 21 96 47</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
